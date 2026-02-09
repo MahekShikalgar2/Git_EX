@@ -1,4 +1,3 @@
 # Git_EX 
 Experiment-1
-Experiment-2
-Experiment-3
+This repository is to perform experiments on GITHUB!!
